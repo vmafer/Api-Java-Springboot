@@ -36,6 +36,7 @@
 | MÉTODO |     ROTA             |             AÇÃO              |
 |------- | -------------------  | ------------------------------|
 |GET     | /api/clientes        |   Exibir todos os Clientes    |
+|GET     | /api/clientes/:id    |   Buscar Cliente por Id       |
 |POST    | /api/clientes        |   Cadastrar Cliente           |
 |PUT     | /api/clientes        | Alterar infos do cliente      |
 |DELETE  | /api/clientes/:id    |   Excluir Cliente Selecionado |
@@ -45,6 +46,7 @@
 | MÉTODO |     ROTA             |             AÇÃO              |
 |------- | -------------------  | ------------------------------|
 |GET     | /api/produtos        |   Exibir todos os Produtos    |
+|GET     | /api/clientes/:id    |   Buscar Produto por Id       |
 |POST    | /api/produtos        |   Cadastrar Produto           |
 |PUT     | /api/produtos        | Alterar infos do Produto      |
 |DELETE  | /api/produtos/:id    |   Excluir Produto Selecionado |
