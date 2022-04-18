@@ -5,7 +5,7 @@
 <div>
 <h1> O Projeto </h1>
   
-  <p> API criada utilizando o framework Spring Boot e a linguagem Java, que realiza os métodos CRUD (Create, Read, Update, e Delete)</p>
+  <p> API criada utilizando o framework Spring Boot e a linguagem Java, que realiza os métodos CRUD (Create, Read, Update, e Delete), conectada com o Front-End através da biblioteca React.</p>
 
   <h2>Entidades do Projeto</h2>
     <li> Cliente - id:{type: Integer} nome: {type: String}, Cpf: {type: String}</li>
@@ -19,9 +19,10 @@
   <h3> Tecnologias utilizadas </h3>
    <ul>
      <li> Git</li>
-     <li> Springboot</li>
+     <li> Spring Boot</li>
      <li>MySQL</li>
      <li>Postman</li>
+     <li>React</li>
    </ul>
  </div>
  
