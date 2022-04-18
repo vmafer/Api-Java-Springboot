@@ -5,11 +5,11 @@
 <div>
 <h1> O Projeto </h1>
   
-  <p> API criada utilizando o framework Spring Boot e a linguagem Java, que realiza os métodos CRUD (Create, Read, Update, e Delete), conectada com o Front-End através da biblioteca React.</p>
+  <p> API criada utilizando o framework Spring Boot e a linguagem Java, que realiza os métodos CRUD (Create, Read, Update, e Delete), conectada com o Front-End através da biblioteca React js.</p>
 
   <h2>Entidades do Projeto</h2>
-    <li> Cliente - id:{type: Integer} nome: {type: String}, Cpf: {type: String}</li>
-    <li> Produto - id:{type: Integer}, nome:{type: String}, preco:{type: Double}, Desonto: {type: Double}</li>
+    <li> Cliente - id:{type: Integer} nome: {type: String}, cpf: {type: String}</li>
+    <li> Produto - id:{type: Integer}, nome:{type: String}, preco:{type: Double}, desconto: {type: Double}</li>
    
     
 </ul>
@@ -22,7 +22,7 @@
      <li> Spring Boot</li>
      <li>MySQL</li>
      <li>Postman</li>
-     <li>React</li>
+     <li>React js</li>
    </ul>
  </div>
  
