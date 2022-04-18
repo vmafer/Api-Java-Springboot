@@ -46,7 +46,7 @@
 | MÉTODO |     ROTA             |             AÇÃO              |
 |------- | -------------------  | ------------------------------|
 |GET     | /api/produtos        |   Exibir todos os Produtos    |
-|GET     | /api/clientes/:id    |   Buscar Produto por Id       |
+|GET     | /api/produtos/:id    |   Buscar Produto por Id       |
 |POST    | /api/produtos        |   Cadastrar Produto           |
 |PUT     | /api/produtos        | Alterar infos do Produto      |
 |DELETE  | /api/produtos/:id    |   Excluir Produto Selecionado |
